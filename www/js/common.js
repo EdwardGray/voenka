@@ -7,7 +7,7 @@ $(function() {
 		autoStart: false,
 		collbacks: {
 			stop: function() {
-				$(".message").html("ВРЕМЯ ВЫШЛО")
+				$(".message").html("МИИИНУС ВОЕНКААААА")
 			}
 		}
 	});
