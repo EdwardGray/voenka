@@ -68,3 +68,8 @@ body {
 	display: inline-flex;
 	justify-content: center;
 }
+
+body {
+	width: 100%;
+	background-image: url("../img/kam.jpg");
+}
